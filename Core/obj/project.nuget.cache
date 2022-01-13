@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2o1pdCWq/efqxEpERgcLfusMvNBUshvxiAY3lRgfzH+shRKpJWROtnFsWsUas+yEXEwalIEElHr6IvVHD7sQhg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Windows10\\Desktop\\onion\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows10\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Windows10\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
